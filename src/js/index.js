@@ -1,5 +1,5 @@
-import PixabayApiService from './pixabay-service';
-import createGalleryMarkup from './gallery-markup';
+import PixabayApiService from './pixabayService';
+import createGalleryMarkup from './galleryMarkup';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
